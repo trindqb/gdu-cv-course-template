@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+# Computer Vision Data (Nặng)
+*.jpg
+*.png
+*.mp4
+datasets/*
+!datasets/.gitkeep
+
+# IDE
+.vscode/
+.idea/
